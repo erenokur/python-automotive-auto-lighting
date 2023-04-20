@@ -6,7 +6,7 @@ To accomplish this, the project used opencv and numpy used. This is not a real t
 
 ![testpic](https://user-images.githubusercontent.com/32430029/233428914-dda3c0c9-1bb2-4469-b77d-a65492edf202.png)
 
-this project also has ability to show realtime response with microconroller systems. When open light responde microcontroller opens its leds and closes when respond was close.
+this project also has ability to show realtime response with microconroller systems. When open light responde microcontroller opens its leds and closes when respond was close. There also long light and short light option and thats visible on the microcontroller system.
 
 ![testpic](https://user-images.githubusercontent.com/32430029/233429867-d251e9fb-1b3c-4520-a3a2-87861acdd2ee.png)
 
