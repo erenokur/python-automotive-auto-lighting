@@ -10,5 +10,6 @@ this project also has ability to show realtime response with microconroller syst
 
 ![testpic](https://user-images.githubusercontent.com/32430029/233429867-d251e9fb-1b3c-4520-a3a2-87861acdd2ee.png)
 
+![testpic](https://user-images.githubusercontent.com/32430029/233430831-15210e3f-256a-42cf-97a2-4c21c6930d2b.png)
 
 The project was generated and tested using Visual Studio 15, and the license is MIT.
