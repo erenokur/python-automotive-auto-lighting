@@ -1,0 +1,5 @@
+tkinter
+cv2
+numpy
+PIL
+moviepy
